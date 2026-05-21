@@ -1,0 +1,821 @@
+sprintId_y,totalNumberOfIssues,completedIssuesCount,completedIssuesEstimateSum,puntedIssues,SprintLength,sprintName,sprintState,avg_point_drift,llm_a3_result
+1,23,11,18.0,6,21,Sprint 1,CLOSED,0.5454545454545454,"{
+  ""summary"": ""Sprint 1 achieved 48% completion on 11/23 issues, with a strong velocity of 18 points and moderate drift."",
+  ""key_insights"": [
+    ""Strong velocity (18 points) despite short sprint; drift indicates some underestimation."",
+    ""6 issues punted—review estimation for remaining tasks."",
+    ""Moderate drift suggests need for more accurate planning.""
+  ],
+  ""action_items"": [
+    ""Refine story points for remaining tasks in next sprint."",
+    ""Discuss punt reasons in retro meeting."",
+    ""Improve estimation accuracy for future sprints.""
+  ]
+}"
+3,26,9,10.0,8,8,Sprint 2,CLOSED,0.09090909090909091,"{
+  ""summary"": ""Sprint 2 completed 9/26 issues, achieving 35% completion with a velocity of 10.0 points."",
+  ""key_insights"": [
+    ""High punt rate (8 issues) indicates estimation challenges."",
+    ""Low completion rate suggests scope may have been too ambitious."",
+    ""Drift of 0.1 points indicates slight underestimation.""
+  ],
+  ""action_items"": [
+    ""Review estimation techniques for future sprints."",
+    ""Implement scope freeze in planning to avoid overcommitting."",
+    ""Retrospective on issue prioritization.""
+  ]
+}"
+4,23,15,72.0,4,6,Sprint 3,CLOSED,0.72,"{
+  ""summary"": ""Sprint 3 delivered 65% of issues, with 72.0 points velocity and 0.7 drift."",
+  ""key_insights"": [
+    ""Strong velocity (72.0 points) despite short sprint."",
+    ""4 issues punted—review estimation for remaining tasks."",
+    ""0.7 drift indicates slight underestimation of story points.""
+  ],
+  ""action_items"": [
+    ""Refine story points for remaining tasks in next sprint."",
+    ""Discuss punt reasons in retro meeting."",
+    ""Monitor velocity trend to ensure consistency.""
+  ]
+}"
+5,48,28,58.0,10,8,Sprint 4,CLOSED,-0.17857142857142858,"{
+  ""summary"": ""Sprint 4 achieved 58.3% completion on 28/48 issues, with a velocity of 58.0 points."",
+  ""key_insights"": [
+    ""Strong velocity (58.0 points) indicates accurate planning, despite short sprint length."",
+    ""Negative drift (-0.2) suggests overestimation of initial story points."",
+    ""10 issues punted, indicating scope creep or inaccurate estimation.""
+  ],
+  ""action_items"": [
+    ""Review estimation process to prevent overestimation."",
+    ""Implement scope freeze in planning to minimize punt rate."",
+    ""Retrospective on issue triaging to improve estimation accuracy.""
+  ]
+}"
+6,35,22,66.0,1,6,Sprint 5,CLOSED,-0.06,"{
+  ""summary"": ""Sprint 5 delivered 63% of issues (22/35), achieving 66.0 points velocity with slight underestimation (-0.1 drift)."",
+  ""key_insights"": [
+    ""High completion rate despite short sprint length."",
+    ""Single punt indicates accurate estimation for most issues."",
+    ""Velocity trend shows consistent team performance.""
+  ],
+  ""action_items"": [
+    ""Review estimation process to maintain consistent velocity."",
+    ""Discuss punt reason in retro meeting.""
+  ]
+}"
+8,61,57,151.0,1,14,Sprint 6,CLOSED,-0.07936507936507936,"{
+  ""summary"": ""Sprint 6 achieved 93% completion rate on 94 total issues; velocity at 151 points; slight underestimation."",
+  ""key_insights"": [
+    ""Strong completion rate (93%) despite slight underestimation (-0.1 drift)."",
+    ""Velocity maintained at 151 points, indicating stable team performance."",
+    ""Only 1 issue punted; review estimation for similar tasks.""
+  ],
+  ""action_items"": [
+    ""Review estimation process to prevent underestimation."",
+    ""Discuss punt reasons in retro meeting."",
+    ""Maintain high velocity through consistent team performance.""
+  ]
+}"
+9,21,13,39.0,4,7,Sprint 7,CLOSED,-0.9230769230769231,"{
+  ""summary"": ""Sprint 7 delivered 13/21 issues, achieving 62% completion with a high velocity of 39 points."",
+  ""key_insights"": [
+    ""Strong velocity (39 points) despite short sprint; drift indicates overestimation."",
+    ""4 issues punted—review estimation for these tasks."",
+    ""High completion rate suggests good team focus.""
+  ],
+  ""action_items"": [
+    ""Refine story points for future sprints to improve estimation accuracy."",
+    ""Discuss punt reasons in retro meeting to identify areas for improvement."",
+    ""Review team's focus and priorities to maintain high completion rates.""
+  ]
+}"
+10,26,23,107.0,1,6,Sprint 8,CLOSED,-0.3103448275862069,"{
+  ""summary"": ""Sprint 8 achieved 88% completion on 23/26 issues, with high velocity (107.0 points) and negative drift (-0.3 points)."",
+  ""key_insights"": [
+    ""High velocity indicates strong team performance, but negative drift suggests overestimation of initial story points."",
+    ""Single punt issue suggests accurate estimation for most tasks.""
+  ],
+  ""action_items"": [
+    ""Review estimation process to improve accuracy and reduce drift."",
+    ""Discuss punt reasons in retro meeting to identify areas for improvement.""
+  ]
+}"
+11,241,22,48.0,102,7,Sprint 9,CLOSED,-0.2807017543859649,"{
+  ""summary"": ""Sprint 9 delivered 22/241 issues, achieving 9% completion at 48.0 points velocity."",
+  ""key_insights"": [
+    ""Negative drift (-0.3 points) indicates underestimation; review initial story points."",
+    ""High punt rate (42%) from scope creep; revisit issue prioritization."",
+    ""Velocity maintained at 48.0 points despite short sprint.""
+  ],
+  ""action_items"": [
+    ""Implement scope freeze in planning to reduce punts."",
+    ""Retrospective on issue triaging and prioritization."",
+    ""Refine story points for future sprints to improve estimation accuracy.""
+  ]
+}"
+13,43,37,77.0,1,8,Sprint 10,CLOSED,-0.1282051282051282,"{
+  ""summary"": ""Sprint 10 achieved 86% completion on 37/43 issues; strong velocity at 77.0 points."",
+  ""key_insights"": [
+    ""Strong velocity (77.0 points) maintained from previous sprints."",
+    ""Negative drift (-0.1 points) indicates slight underestimation."",
+    ""Only 1 issue punted—review estimation for remaining tasks.""
+  ],
+  ""action_items"": [
+    ""Review estimation accuracy for future sprints."",
+    ""Discuss punt reasons in retro meeting.""
+  ]
+}"
+15,44,32,67.0,6,6,Sprint 11,CLOSED,-0.28846153846153844,"{
+  ""summary"": ""Sprint 11 achieved 73% completion on 44 issues; velocity at 67 points, with some underestimation."",
+  ""key_insights"": [
+    ""Strong completion rate (73%) despite short sprint."",
+    ""Underestimation indicated by negative drift (-0.3 points)."",
+    ""6 issues punted—review estimation for future tasks.""
+  ],
+  ""action_items"": [
+    ""Refine story points for upcoming sprints to improve estimation accuracy."",
+    ""Discuss punt reasons in retro meeting to identify areas for improvement.""
+  ]
+}"
+16,136,112,277.0,12,21,Sprint 12,CLOSED,-0.06349206349206349,"{
+  ""summary"": ""Sprint 12 achieved 82% completion rate, maintaining high velocity at 203.8 points."",
+  ""key_insights"": [
+    ""Strong completion rate despite high total issues; high punt rate (9%) indicates scope challenges."",
+    ""Negative drift (-0.1) suggests underestimation of initial story points.""
+  ],
+  ""action_items"": [
+    ""Review and refine estimation for upcoming sprints."",
+    ""Implement scope freeze in planning to minimize scope creep.""
+  ]
+}"
+18,26,17,48.0,4,8,Sprint 13,CLOSED,-0.2222222222222222,"{
+  ""summary"": ""Sprint 13 achieved 65% completion on 26 issues, with a velocity of 48 points."",
+  ""key_insights"": [
+    ""Strong velocity (48 points) despite short sprint; drift indicates underestimation."",
+    ""4 issues punted—review estimation for HDFS tasks and discuss punt reasons in retro meeting.""
+  ],
+  ""action_items"": [
+    ""Refine story points for ingestion modules in next sprint."",
+    ""Discuss punt reasons in retro meeting and implement estimation accuracy checks.""
+  ]
+}"
+19,41,29,111.0,5,9,Sprint 14,CLOSED,0.08571428571428572,"{
+  ""summary"": ""Sprint 14 achieved 71% completion rate with 29/41 issues done; velocity increased to 111 points."",
+  ""key_insights"": [
+    ""Strong velocity growth (+34 points from previous sprint) indicates team's ability to adapt."",
+    ""5 issues punted—review estimation for UI tasks to improve accuracy."",
+    ""Low drift of 0.1 points suggests accurate planning.""
+  ],
+  ""action_items"": [
+    ""Review and refine story points for UI tasks in next sprint."",
+    ""Discuss punt reasons in retro meeting to improve estimation.""
+  ]
+}"
+20,44,30,110.0,7,13,Sprint 15,CLOSED,-0.09375,"{
+  ""summary"": ""Sprint 15 achieved 68% completion on 30/44 issues, with a high velocity of 110 points."",
+  ""key_insights"": [
+    ""High velocity indicates strong team performance, but also suggests potential overestimation."",
+    ""7 issues punted—review estimation for these tasks to improve accuracy."",
+    ""Negative drift (-0.1 points) indicates underestimation; refine story points for future sprints.""
+  ],
+  ""action_items"": [
+    ""Retrospective on issue triaging to identify causes of punt rate."",
+    ""Implement scope freeze in planning to prevent scope creep."",
+    ""Discuss punt reasons in retro meeting to improve estimation accuracy.""
+  ]
+}"
+21,50,39,139.0,5,22,Sprint 16,CLOSED,-0.06521739130434782,"{
+  ""summary"": ""Sprint 16 delivered 78% of 50 issues, with a high velocity of 139.0 points."",
+  ""key_insights"": [
+    ""Strong velocity indicates accurate estimation, despite short drift."",
+    ""5 issues punted—review estimation for similar tasks."",
+    ""High completion rate suggests effective team collaboration.""
+  ],
+  ""action_items"": [
+    ""Review and refine estimation for future sprints."",
+    ""Discuss punt reasons in retro meeting."",
+    ""Maintain high team collaboration to achieve similar completion rates.""
+  ]
+}"
+24,20,17,124.0,0,11,Sprint 17,CLOSED,0.0,"{
+  ""summary"": ""Sprint 17 achieved 85% completion with high velocity; accurate estimation."",
+  ""key_insights"": [
+    ""High velocity (124 points) indicates strong team performance."",
+    ""Zero drift shows accurate planning and estimation."",
+    ""No punts suggest effective issue prioritization.""
+  ],
+  ""action_items"": [
+    ""Maintain accurate estimation to ensure consistent velocity."",
+    ""Review and refine issue prioritization to maximize value delivery.""
+  ]
+}"
+25,64,44,216.0,10,26,Sprint 18,CLOSED,0.06,"{
+  ""summary"": ""Sprint 18 achieved 69% completion on 44/64 issues, with a velocity of 216 points."",
+  ""key_insights"": [
+    ""Positive drift (+0.1) indicates accurate estimation."",
+    ""High velocity (216 points) maintained throughout the sprint."",
+    ""10 issues punted; review estimation for these tasks.""
+  ],
+  ""action_items"": [
+    ""Review punt reasons in retro meeting."",
+    ""Refine story points for future sprints to maintain estimation accuracy."",
+    ""Discuss scope management to prevent similar issues in the future.""
+  ]
+}"
+28,98,60,217.0,14,23,Sprint 19,CLOSED,-0.01639344262295082,"{
+  ""summary"": ""Sprint 19 delivered 61% completion on 60/98 issues, achieving 217 points velocity."",
+  ""key_insights"": [
+    ""Completion rate improved from previous sprint; velocity maintained."",
+    ""Zero drift indicates accurate planning; however, 14 issues were punted."",
+    ""High velocity despite short team (no team size mentioned in data)""
+  ],
+  ""action_items"": [
+    ""Review punt reasons in retro meeting."",
+    ""Implement scope freeze in planning to avoid future scope creep.""
+  ]
+}"
+29,47,40,117.0,3,28,Sprint 20,CLOSED,-0.018867924528301886,"{
+  ""summary"": ""Sprint 20 delivered 85% completion rate with 117 points velocity; zero drift indicates accurate planning."",
+  ""key_insights"": [
+    ""High completion rate (40/47) despite 28-day sprint."",
+    ""Three issues punted—review estimation for remaining tasks."",
+    ""Velocity maintained at 117 points, indicating stable team performance.""
+  ],
+  ""action_items"": [
+    ""Review and refine estimation for remaining tasks."",
+    ""Discuss punt reasons in retro meeting."",
+    ""Document lessons learned from long sprint planning.""
+  ]
+}"
+31,88,58,294.0,14,27,Sprint 21,CLOSED,0.0,"{
+  ""summary"": ""Sprint 21 achieved 66% completion on 88 issues, maintaining 0.0 drift."",
+  ""key_insights"": [
+    ""Strong velocity (294.0 points) suggests accurate estimation."",
+    ""14 punts indicate scope creep or underestimation; review issue prioritization."",
+    ""66% completion rate shows room for improvement; discuss completion targets.""
+  ],
+  ""action_items"": [
+    ""Implement scope freeze in planning to reduce punts."",
+    ""Retrospective on issue triaging to improve estimation accuracy."",
+    ""Discuss completion targets to increase overall efficiency.""
+  ]
+}"
+35,71,36,162.0,16,20,Sprint 22,CLOSED,0.05660377358490566,"{
+  ""summary"": ""Sprint 22 achieved 51% completion on 36/71 issues, with a velocity of 162 points."",
+  ""key_insights"": [
+    ""Strong velocity (162 points) maintained from previous sprints."",
+    ""16 issues punted—review estimation for tasks with high punt rates."",
+    ""Drift of 0.1 points indicates accurate planning.""
+  ],
+  ""action_items"": [
+    ""Refine story points for tasks with high punt rates in next sprint."",
+    ""Discuss punt reasons in retro meeting.""
+  ]
+}"
+39,40,21,99.0,8,14,Sprint 23,CLOSED,0.0,"{
+  ""summary"": ""Sprint 23 achieved 52.5% completion on 21/40 issues, with a high velocity of 99.0 points."",
+  ""key_insights"": [
+    ""High velocity indicates strong team performance, but also potential overestimation."",
+    ""8 issues punted—review estimation for HDFS tasks and consider scope freeze in planning."",
+    ""Zero drift suggests accurate planning, but also indicates potential for complacency.""
+  ],
+  ""action_items"": [
+    ""Implement scope freeze in planning to prevent scope creep."",
+    ""Retrospective on issue triaging to improve estimation accuracy."",
+    ""Review punt reasons in retro meeting to identify areas for improvement.""
+  ]
+}"
+41,70,54,243.0,4,16,Sprint 24,CLOSED,0.1267605633802817,"{
+  ""summary"": ""Sprint 24 achieved 77% completion on 54/70 issues, maintaining high velocity."",
+  ""key_insights"": [
+    ""Strong velocity (243 points) indicates team's ability to deliver complex tasks."",
+    ""Low punt rate (4 issues) suggests accurate estimation."",
+    ""Drift of 0.1 points shows minimal planning adjustments needed.""
+  ],
+  ""action_items"": [
+    ""Review estimation process to maintain consistent velocity."",
+    ""Discuss punt reasons in retro meeting to improve estimation accuracy.""
+  ]
+}"
+43,81,69,190.0,4,12,Sprint 25,CLOSED,0.06349206349206349,"{
+  ""summary"": ""Sprint 25 delivered 85% completion on 81 issues, achieving 235.4 points velocity."",
+  ""key_insights"": [
+    ""Strong velocity (190.0 points) with minimal drift (0.1 points) indicates accurate planning."",
+    ""4 issues punted—review estimation for impacted tasks."",
+    ""High completion rate (69/81) suggests efficient team performance.""
+  ],
+  ""action_items"": [
+    ""Discuss punt reasons in retro meeting."",
+    ""Refine story points for impacted modules in next sprint."",
+    ""Review velocity trend to ensure consistent performance.""
+  ]
+}"
+45,87,37,104.0,18,13,Sprint 26,CLOSED,0.5555555555555556,"{
+  ""summary"": ""Sprint 26 achieved 42% completion rate with 104 points of velocity; 0.6 drift indicates slight overestimation."",
+  ""key_insights"": [
+    ""High velocity (104 points) despite moderate drift; indicates team's ability to adapt."",
+    ""18 issues punted—review estimation for high-priority tasks."",
+    ""Completion rate (42%) could be improved with better scope management.""
+  ],
+  ""action_items"": [
+    ""Review and refine estimation for high-priority tasks."",
+    ""Implement scope freeze in planning to improve completion rates."",
+    ""Retrospective on issue triaging to prioritize tasks effectively.""
+  ]
+}"
+47,124,85,343.0,15,21,Sprint 27,CLOSED,0.75,"{
+  ""summary"": ""Sprint 27 achieved 68% completion on 85/124 issues, with a high velocity of 343 points."",
+  ""key_insights"": [
+    ""Strong velocity (343 points) indicates accurate planning, but high punt rate (12%) suggests scope creep."",
+    ""Positive drift (0.8 points) indicates underestimation, which contributed to high completion rate.""
+  ],
+  ""action_items"": [
+    ""Review estimation for high-priority issues to prevent scope creep."",
+    ""Implement scope freeze in planning to maintain focus on core goals.""
+  ]
+}"
+49,37,27,102.0,3,9,Sprint 28,CLOSED,0.24444444444444444,"{
+  ""summary"": ""Sprint 28 achieved 73% completion on 27/37 issues, with high velocity at 102 points."",
+  ""key_insights"": [
+    ""Strong velocity (102 points) indicates effective team collaboration."",
+    ""Positive drift (+0.2) suggests accurate estimation."",
+    ""3 issues punted—review estimation for similar tasks in future sprints.""
+  ],
+  ""action_items"": [
+    ""Discuss punt reasons in retro meeting."",
+    ""Refine story points for similar tasks in next sprint.""
+  ]
+}"
+50,38,18,68.0,8,8,Sprint 29,CLOSED,0.24,"{
+  ""summary"": ""Sprint 29 delivered 47% of total issues, achieving 68.0 points velocity."",
+  ""key_insights"": [
+    ""Completion rate of 47% indicates scope may have been too ambitious."",
+    ""Positive drift of 0.2 points suggests accurate initial estimation."",
+    ""8 issues punted—review estimation and prioritization for future sprints.""
+  ],
+  ""action_items"": [
+    ""Review and adjust scope for future sprints."",
+    ""Implement prioritization framework to focus on high-value tasks."",
+    ""Discuss punt reasons in retro meeting.""
+  ]
+}"
+51,64,57,251.0,0,19,Sprint 30,CLOSED,0.08064516129032258,"{
+  ""summary"": ""Sprint 30 achieved 89% completion with high velocity."",
+  ""key_insights"": [
+    ""Zero punts indicate accurate estimation; high velocity (251 points) with 89% completion."",
+    ""Average drift of 0.1 points suggests minimal estimation adjustment needed.""
+  ],
+  ""action_items"": [
+    ""Maintain accurate estimation and planning for future sprints."",
+    ""Review and refine velocity trends to ensure consistency.""
+  ]
+}"
+54,69,59,197.2,4,17,Sprint 31,CLOSED,-0.08928571428571429,"{
+  ""summary"": ""Sprint 31 achieved 85% completion rate on 59/69 issues, with a velocity of 197.2 points."",
+  ""key_insights"": [
+    ""Strong velocity maintained despite short sprint; drift indicates slight underestimation."",
+    ""4 issues punted—review estimation for UI tasks."",
+    ""High completion rate suggests effective planning and execution.""
+  ],
+  ""action_items"": [
+    ""Refine story points for UI modules in next sprint."",
+    ""Discuss punt reasons in retro meeting."",
+    ""Review and adjust planning process for better scope management.""
+  ]
+}"
+57,72,59,127.0,3,8,Sprint 32,CLOSED,0.0,"{
+  ""summary"": ""Sprint 32 delivered 59/72 issues, achieving 82% completion with a high velocity of 127.0 points."",
+  ""key_insights"": [
+    ""Strong velocity (127.0 points) indicates accurate planning and efficient execution."",
+    ""Zero drift suggests estimation accuracy; however, 3 issues were punted."",
+    ""High completion rate (82%) demonstrates team's ability to meet goals.""
+  ],
+  ""action_items"": [
+    ""Review and refine estimation for future sprints to maintain high velocity."",
+    ""Discuss reasons for 3 punted issues in retro meeting."",
+    ""Continuously monitor and improve velocity to maintain high performance.""
+  ]
+}"
+60,21,9,64.0,6,21,Sprint 33,CLOSED,2.7777777777777777,"{
+  ""summary"": ""Sprint 33 completed 43% of issues, achieving 64.0 points velocity with 2.8 points drift."",
+  ""key_insights"": [
+    ""Strong velocity (64.0 points) despite short sprint; drift indicates overestimation."",
+    ""6 issues punted—review estimation for tasks."",
+    ""43% completion rate suggests scope or prioritization issues.""
+  ],
+  ""action_items"": [
+    ""Review and adjust estimation for future tasks."",
+    ""Discuss punt reasons in retro meeting."",
+    ""Prioritize and refactor scope for next sprint.""
+  ]
+}"
+62,20,10,48.0,5,26,Sprint 34,CLOSED,0.0,"{
+  ""summary"": ""Sprint 34 completed 50% of 20 issues, achieving a velocity of 48.0 points with zero drift."",
+  ""key_insights"": [
+    ""Strong velocity (48.0 points) maintained throughout the sprint."",
+    ""5 issues punted; review estimation for these tasks to improve accuracy.""
+  ],
+  ""action_items"": [
+    ""Review and refine estimation for punted issues."",
+    ""Discuss punt reasons in retro meeting.""
+  ]
+}"
+64,19,13,27.0,3,9,Sprint 35,CLOSED,0.0,"{
+  ""summary"": ""Sprint 35 achieved 68% completion on 19 issues, with a strong velocity of 27 points."",
+  ""key_insights"": [
+    ""Velocity increased by 15 points from previous sprint, indicating improved team performance."",
+    ""Zero drift suggests accurate estimation, but 3 issues were punted—review estimation for future sprints."",
+    ""High completion rate of 13/19 issues, despite short sprint length.""
+  ],
+  ""action_items"": [
+    ""Review and refine estimation for upcoming sprints to prevent punted issues."",
+    ""Discuss reasons for punt in retro meeting to improve estimation accuracy."",
+    ""Maintain focus on completing high-priority issues in future sprints.""
+  ]
+}"
+65,42,23,82.0,8,12,Sprint 36,CLOSED,-0.07142857142857142,"{
+  ""summary"": ""Sprint 36 delivered 23/42 issues, achieving 55% completion, with a high velocity of 82 points."",
+  ""key_insights"": [
+    ""High velocity (82 points) indicates strong team performance."",
+    ""Negative drift (-0.1) suggests overestimation of initial story points."",
+    ""8 issues punted—review estimation for future sprints.""
+  ],
+  ""action_items"": [
+    ""Retrospective on issue estimation to improve accuracy."",
+    ""Implement scope freeze in planning to reduce punt rate.""
+  ]
+}"
+66,50,29,108.0,8,11,Sprint 37,CLOSED,-0.75,"{
+  ""summary"": ""Sprint 37 delivered 58% of total issues, achieving 108 points velocity with -8% drift."",
+  ""key_insights"": [
+    ""Strong velocity (108 points) despite short sprint; drift indicates underestimation."",
+    ""8 issues punted—review estimation for tasks with high drift."",
+    ""Completion rate of 58% suggests room for improvement in planning and execution.""
+  ],
+  ""action_items"": [
+    ""Refine story points for high-drift tasks in next sprint."",
+    ""Discuss punt reasons and estimation accuracy in retro meeting."",
+    ""Review planning and execution processes to improve completion rates.""
+  ]
+}"
+67,67,47,167.0,7,15,Sprint 38,CLOSED,0.0,"{
+  ""summary"": ""Sprint 38 achieved 70% completion on 47/67 issues, with a high velocity of 167.0 points."",
+  ""key_insights"": [
+    ""Strong velocity indicates accurate estimation and efficient team performance."",
+    ""Zero drift suggests that initial and current story points were accurately estimated."",
+    ""7 issues punted—review estimation and planning for future sprints.""
+  ],
+  ""action_items"": [
+    ""Discuss punt reasons in retro meeting."",
+    ""Refine story points for future sprints to maintain high velocity.""
+  ]
+}"
+68,49,19,69.0,12,15,Sprint 39,CLOSED,0.02857142857142857,"{
+  ""summary"": ""Sprint 39 delivered 39% of issues (19/49), achieving 69 points velocity."",
+  ""key_insights"": [
+    ""Strong velocity (69 points) despite short sprint; drift indicates accurate planning."",
+    ""12 issues punted—review estimation for tasks with high punt rates.""
+  ],
+  ""action_items"": [
+    ""Refine story points for tasks with high punt rates in next sprint."",
+    ""Discuss punt reasons in retro meeting.""
+  ]
+}"
+70,64,42,135.0,10,14,Sprint 40,CLOSED,-0.17543859649122806,"{
+  ""summary"": ""Sprint 40 completed 66% of issues (42/64) with a high velocity of 135 points."",
+  ""key_insights"": [
+    ""High velocity despite short drift (-0.2 points) suggests accurate planning."",
+    ""10 issues punted—review estimation for tasks with high uncertainty."",
+    ""Scope may have been too ambitious given the punt rate.""
+  ],
+  ""action_items"": [
+    ""Improve estimation for high-risk tasks in future sprints."",
+    ""Discuss punt reasons in retro meeting to refine scope planning."",
+    ""Review velocity trends to ensure sustainable pace.""
+  ]
+}"
+72,72,57,170.0,7,23,Sprint 41,CLOSED,0.038461538461538464,"{
+  ""summary"": ""Sprint 41 achieved 79% completion on 57/72 issues, maintaining 170.0 points velocity with zero drift."",
+  ""key_insights"": [
+    ""High completion rate despite 7 issues punted; estimation accuracy maintained."",
+    ""Velocity maintained at 170.0 points, indicating stable team performance."",
+    ""Zero drift suggests accurate planning and estimation.""
+  ],
+  ""action_items"": [
+    ""Review punt reasons for 7 issues to refine estimation."",
+    ""Consider implementing scope freeze in planning to minimize scope creep."",
+    ""Document lessons learned from sprint planning to improve future estimation.""
+  ]
+}"
+73,41,31,64.0,5,8,Sprint 42,CLOSED,-2.757575757575758,"{
+  ""summary"": ""Sprint 42 achieved 76% completion on 31/41 issues, with a high velocity of 64 points."",
+  ""key_insights"": [
+    ""Strong velocity indicates accurate planning and efficient execution."",
+    ""Negative drift (-2.8 points) suggests overestimation of initial story points."",
+    ""5 issues punted—review estimation for similar tasks in future sprints.""
+  ],
+  ""action_items"": [
+    ""Review and adjust initial story point estimates to improve drift."",
+    ""Discuss punt reasons in retro meeting to identify areas for improvement.""
+  ]
+}"
+74,20,6,15.0,7,9,Sprint 43,CLOSED,0.3333333333333333,"{
+  ""summary"": ""Sprint 43 delivered 6/20 issues, achieving 30% completion with a velocity of 15 points."",
+  ""key_insights"": [
+    ""High punt rate (35%) from 7 issues; review estimation for future tasks."",
+    ""Velocity maintained at 15 points, but completion rate remains low."",
+    ""Drift slightly positive (0.3 points) indicates some underestimation.""
+  ],
+  ""action_items"": [
+    ""Review and refine estimation for upcoming sprints."",
+    ""Implement scope freeze in planning to minimize scope creep."",
+    ""Retrospective on issue triaging to improve prioritization.""
+  ]
+}"
+77,50,30,124.0,10,11,Sprint 44,CLOSED,-0.08108108108108109,"{
+  ""summary"": ""Sprint 44 achieved 60% completion on 30/50 issues, with a high velocity of 124 points."",
+  ""key_insights"": [
+    ""Negative drift (-0.1) indicates overestimation of story points."",
+    ""High punt rate (20%) suggests scope creep or estimation issues."",
+    ""Velocity remains high, but with a negative drift, review estimation is crucial.""
+  ],
+  ""action_items"": [
+    ""Review and refine story point estimation for future sprints."",
+    ""Implement scope freeze in planning to minimize scope creep."",
+    ""Retrospective on issue triaging to improve estimation accuracy.""
+  ]
+}"
+78,36,20,90.0,8,11,Sprint 45,CLOSED,-0.125,"{
+  ""summary"": ""Sprint 45 delivered 56% of planned issues, achieving 90.0 velocity points."",
+  ""key_insights"": [
+    ""Completion rate (56%) indicates scope may have been overly ambitious."",
+    ""Negative drift (-0.1) suggests overestimation of story points."",
+    ""8 issues punted—review estimation for future sprints.""
+  ],
+  ""action_items"": [
+    ""Reassess scope for future sprints to improve completion rates."",
+    ""Discuss punt reasons in retro meeting to refine estimation techniques."",
+    ""Implement scope freeze in planning to prevent overambition.""
+  ]
+}"
+79,37,21,72.0,7,11,Sprint 46,CLOSED,0.13333333333333333,"{
+  ""summary"": ""Sprint 46 delivered 57% of total issues (21/37), achieving 72 points velocity."",
+  ""key_insights"": [
+    ""High velocity (72 points) maintained despite short sprint; drift indicates slight overestimation."",
+    ""7 issues punted—review estimation for these tasks."",
+    ""Completion rate of 57% suggests room for improvement in planning and estimation.""
+  ],
+  ""action_items"": [
+    ""Refine story points for tasks with high punt rates in next sprint."",
+    ""Discuss punt reasons in retro meeting to improve estimation accuracy.""
+  ]
+}"
+80,52,31,110.0,10,18,Sprint 47,CLOSED,-0.11764705882352941,"{
+  ""summary"": ""Sprint 47 achieved 60% completion on 31/52 issues, with high velocity at 110 points, but underestimation indicated by negative drift."",
+  ""key_insights"": [
+    ""High velocity (110 points) maintained from previous sprints."",
+    ""Completion rate (60%) indicates room for improvement in planning and estimation."",
+    ""Negative drift (-0.1 points) suggests underestimation of story points.""
+  ],
+  ""action_items"": [
+    ""Review and refine estimation techniques for accurate point allocation."",
+    ""Discuss scope and prioritization in planning to improve completion rates."",
+    ""Investigate reasons behind 10 punted issues for future estimation improvement.""
+  ]
+}"
+82,57,23,73.0,15,11,Sprint 48,CLOSED,0.0,"{
+  ""summary"": ""Sprint 48 achieved 40% completion rate on 23/57 issues, with high velocity (73.0 points) and no drift."",
+  ""key_insights"": [
+    ""High velocity maintained despite short sprint; indicates accurate estimation."",
+    ""15 issues punted—review estimation for future sprints."",
+    ""Completion rate at 40% suggests scope may have been overly ambitious.""
+  ],
+  ""action_items"": [
+    ""Review and refine estimation for upcoming sprints."",
+    ""Implement scope freeze in planning to improve completion rates."",
+    ""Discuss punt reasons in retro meeting.""
+  ]
+}"
+83,71,56,170.0,6,11,Sprint 49,CLOSED,0.0847457627118644,"{
+  ""summary"": ""Sprint 49 achieved 79% completion on 56/71 issues, with a high velocity of 170 points."",
+  ""key_insights"": [
+    ""Strong velocity indicates effective team performance; however, drift of +0.1 suggests minor underestimation."",
+    ""6 issues punted—review estimation for these tasks to improve accuracy.""
+  ],
+  ""action_items"": [
+    ""Refine story points for upcoming sprints to maintain accurate velocity."",
+    ""Discuss punt reasons in retro meeting to identify areas for improvement.""
+  ]
+}"
+85,71,41,102.0,13,13,Sprint 50,CLOSED,0.0,"{
+  ""summary"": ""Sprint 50 delivered 58% completion rate on 57 issues, maintaining 144% velocity."",
+  ""key_insights"": [
+    ""High velocity (102 points) despite short sprint; drift at 0.0 indicates accurate planning."",
+    ""13 issues punted—review estimation for these tasks."",
+    ""Completion rate of 58% suggests scope may have been too ambitious.""
+  ],
+  ""action_items"": [
+    ""Review and refine estimation for remaining open issues."",
+    ""Discuss punt reasons in retro meeting."",
+    ""Assess scope for future sprints to ensure realistic goals.""
+  ]
+}"
+86,39,21,60.0,7,13,Sprint 51,CLOSED,0.0,"{
+  ""summary"": ""Sprint 51 achieved 54% completion on 21/39 issues, maintaining 60.0 points velocity."",
+  ""key_insights"": [
+    ""Positive drift (0.0) indicates accurate planning; 7 punts may indicate scope issues."",
+    ""High velocity (60.0 points) suggests efficient team performance."",
+    ""Completion rate (54%) could be improved; review estimation for future sprints.""
+  ],
+  ""action_items"": [
+    ""Assess scope creep and adjust planning for future sprints."",
+    ""Review estimation process to improve accuracy."",
+    ""Discuss punt reasons in retro meeting.""
+  ]
+}"
+87,29,14,64.0,7,14,Sprint 52,CLOSED,0.2631578947368421,"{
+  ""summary"": ""Sprint 52 achieved 48% completion rate, with high velocity (64.0 points) and slight underestimation (avg drift +0.3)."",
+  ""key_insights"": [
+    ""High velocity maintained throughout sprint, indicating team's ability to deliver."",
+    ""7 issues punted; review estimation for these tasks to improve accuracy."",
+    ""Completion rate lower than expected; assess impact of scope creep or task complexity.""
+  ],
+  ""action_items"": [
+    ""Review and refine estimation for upcoming sprints."",
+    ""Implement scope freeze in planning to minimize scope creep."",
+    ""Discuss punt reasons in retro meeting to improve estimation accuracy.""
+  ]
+}"
+88,36,26,101.0,5,13,Sprint 53,CLOSED,0.0,"{
+  ""summary"": ""Sprint 53 achieved 72% completion rate with high velocity; zero drift indicates accurate planning."",
+  ""key_insights"": [
+    ""High completion rate (26/36) despite 13-day sprint."",
+    ""Velocity increased to 101.0 points, maintaining upward trend."",
+    ""5 issues punted—review estimation for future sprints.""
+  ],
+  ""action_items"": [
+    ""Discuss punt reasons in retro meeting."",
+    ""Refine story points for similar tasks in future sprints."",
+    ""Review velocity trend to inform planning decisions.""
+  ]
+}"
+90,32,17,71.0,7,13,Sprint 54,CLOSED,0.25,"{
+  ""summary"": ""Sprint 54 achieved 53% completion rate with 17/32 issues completed; high velocity at 71.0 points."",
+  ""key_insights"": [
+    ""Velocity increased by 10 points from previous sprint, indicating improved team performance."",
+    ""7 issues punted—review estimation for these tasks to improve accuracy."",
+    ""Drift of 0.2 points suggests accurate planning, but further refinement is needed.""
+  ],
+  ""action_items"": [
+    ""Retrospective on issue prioritization to minimize scope creep."",
+    ""Discuss punt reasons in retro meeting to improve estimation."",
+    ""Review and refine story points for future sprints.""
+  ]
+}"
+92,72,25,102.0,22,13,Sprint 55,CLOSED,0.0,"{
+  ""summary"": ""Sprint 55 delivered 25/72 issues, achieving 35% completion and maintaining a stable velocity."",
+  ""key_insights"": [
+    ""High punt rate (22 issues) indicates scope creep; review estimation for future sprints."",
+    ""Velocity maintained at 102.0 points despite short sprint; stability is a positive trend."",
+    ""Zero drift suggests accurate initial planning; maintain this accuracy in future sprints.""
+  ],
+  ""action_items"": [
+    ""Implement scope freeze in planning to reduce punt rate."",
+    ""Retrospective on issue triaging to improve estimation accuracy."",
+    ""Discuss punt reasons in retro meeting to identify areas for improvement.""
+  ]
+}"
+94,60,21,83.0,18,13,Sprint 56,CLOSED,-0.18181818181818182,"{
+  ""summary"": ""Sprint 56 delivered 35% more issues than planned, with a high velocity of 83 points."",
+  ""key_insights"": [
+    ""High velocity (83 points) indicates strong team performance; however, drift (-0.2) suggests overestimation."",
+    ""18 issues punted—review estimation for these tasks to improve accuracy."",
+    ""Completion rate (35%) is lower than expected; discuss scope and prioritization in the next sprint.""
+  ],
+  ""action_items"": [
+    ""Re-evaluate estimation for high-priority tasks to prevent overestimation."",
+    ""Implement scope freeze in planning to reduce punt rate."",
+    ""Review and refine prioritization to meet sprint goals.""
+  ]
+}"
+95,59,28,83.0,15,15,Sprint 57,CLOSED,0.0,"{
+  ""summary"": ""Sprint 57 achieved 47% completion on 28/59 issues, with a velocity of 83 points."",
+  ""key_insights"": [
+    ""Velocity maintained at 83 points, indicating stable team performance."",
+    ""15 issues punted—review estimation for high-priority tasks."",
+    ""Zero drift suggests accurate initial planning; however, high punt rate may indicate scope creep.""
+  ],
+  ""action_items"": [
+    ""Review and refine estimation for high-priority tasks to reduce punt rate."",
+    ""Implement scope freeze in planning to prevent scope creep."",
+    ""Document lessons learned from Sprint 57 to improve future planning.""
+  ]
+}"
+96,59,21,69.0,19,11,Sprint 58,CLOSED,0.038461538461538464,"{
+  ""summary"": ""Sprint 58 achieved 36% completion on 21/59 issues, with a strong velocity of 69.0 points."",
+  ""key_insights"": [
+    ""Strong velocity (69.0 points) despite short sprint; high punt rate (32%) indicates scope creep."",
+    ""Zero drift shows accurate planning; however, many issues were punted.""
+  ],
+  ""action_items"": [
+    ""Implement scope freeze in planning to reduce punt rate."",
+    ""Review and refine estimation for future sprints.""
+  ]
+}"
+98,59,17,41.0,21,11,Sprint 59,CLOSED,-0.038461538461538464,"{
+  ""summary"": ""Sprint 59 completed 29% of issues, achieving 41.0 points velocity with neutral drift."",
+  ""key_insights"": [
+    ""High punt rate (35.6%) from potential scope or estimation issues."",
+    ""Velocity increased by 10.0 points compared to previous sprint."",
+    ""Completion rate lower than expected, indicating potential process improvements.""
+  ],
+  ""action_items"": [
+    ""Review estimation process to identify potential scope creep."",
+    ""Improve issue prioritization and triaging to reduce punt rate."",
+    ""Analyze velocity trends to refine planning and estimation.""
+  ]
+}"
+99,70,27,78.0,21,11,Sprint 60,CLOSED,0.02631578947368421,"{
+  ""summary"": ""Sprint 60 achieved 39% completion rate on 27/70 issues, with a high velocity of 78.0 points."",
+  ""key_insights"": [
+    ""High velocity (78.0 points) indicates strong team performance."",
+    ""21 punted issues suggest scope creep or inaccurate estimation."",
+    ""Zero drift indicates accurate planning and estimation.""
+  ],
+  ""action_items"": [
+    ""Review estimation for high-priority tasks to prevent scope creep."",
+    ""Implement scope freeze in planning to reduce punt rate."",
+    ""Discuss punt reasons in retro meeting to improve estimation accuracy.""
+  ]
+}"
+101,64,14,33.0,24,11,Sprint 61,CLOSED,0.0,"{
+  ""summary"": ""Sprint 61 achieved 22% completion rate with 33 points velocity; zero drift indicates accurate planning."",
+  ""key_insights"": [
+    ""High punt rate (24 issues) from added scope; review estimation for future sprints."",
+    ""Strong velocity (33 points) maintained despite short sprint."",
+    ""Zero drift shows accurate planning; refine estimation techniques.""
+  ],
+  ""action_items"": [
+    ""Implement scope freeze in planning to prevent scope creep."",
+    ""Retrospective on issue triaging to improve estimation accuracy."",
+    ""Discuss punt reasons in retro meeting to identify areas for improvement.""
+  ]
+}"
+102,58,12,28.0,23,11,Sprint 62,CLOSED,0.0,"{
+  ""summary"": ""Sprint 62 achieved 21% completion rate on 58 issues, with a high velocity of 28 points."",
+  ""key_insights"": [
+    ""Strong velocity (28 points) despite short sprint; drift at 0.0 indicates accurate planning."",
+    ""High punt rate (23 issues) from added scope; review estimation for future tasks.""
+  ],
+  ""action_items"": [
+    ""Implement scope freeze in planning to reduce punt rate."",
+    ""Retrospective on issue triaging to improve estimation accuracy.""
+  ]
+}"
+103,79,5,14.0,37,12,Sprint 63,CLOSED,0.0,"{
+  ""summary"": ""Sprint 103 underperformed with only 6.3% completion on 5/79 issues; velocity low at 14 points amid high scope."",
+  ""key_insights"": [
+    ""High punt rate (47%) from added scope; drift 0.0 due to accurate estimation."",
+    ""Low completion rate indicates scope creep or estimation issues.""
+  ],
+  ""action_items"": [
+    ""Implement scope freeze in planning to prevent scope creep."",
+    ""Retrospective on issue triaging to identify estimation accuracy.""
+  ]
+}"
+106,8,1,1.0,3,7,Sprint 64,CLOSED,0.0,"{
+  ""summary"": ""Sprint 64 underperformed with 12.5% completion; low velocity at 1.0 point amid high punt rate."",
+  ""key_insights"": [
+    ""Low completion rate (1/8) indicates poor planning or execution."",
+    ""High punt rate (3/8) suggests inaccurate estimation."",
+    ""Zero drift shows no change in story point accuracy.""
+  ],
+  ""action_items"": [
+    ""Review estimation process for accuracy."",
+    ""Improve planning to avoid scope creep."",
+    ""Retrospective on issue prioritization.""
+  ]
+}"
+107,11,9,16.0,1,12,Sprint 67,CLOSED,0.0,"{
+  ""summary"": ""Sprint 67 achieved 82% completion with a strong velocity of 16 points."",
+  ""key_insights"": [
+    ""High completion rate with only 1 punt; indicates accurate estimation."",
+    ""Zero drift suggests consistent story point estimation."",
+    ""Strong velocity maintained despite short sprint length.""
+  ],
+  ""action_items"": [
+    ""Maintain accurate estimation for future sprints."",
+    ""Review punt reasons to prevent similar issues in future.""
+  ]
+}"
+108,7,7,10.0,0,11,Sprint 68,CLOSED,0.0,"{
+  ""summary"": ""Sprint 108 achieved 100% completion on 7 issues."",
+  ""key_insights"": [
+    ""Zero drift indicates accurate planning."",
+    ""Small team (7 issues) maintained high velocity at 10 points.""
+  ],
+  ""action_items"": [
+    ""Scale similar planning to future sprints."",
+    ""Document best practices for issue prioritization.""
+  ]
+}"
